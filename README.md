@@ -1,3 +1,4 @@
+[![MasterHead]https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://rhamadhanromly.blog.uma.ac.id/2023/04/28/penerapan-data-science-dalam-dunia-kerja/">
