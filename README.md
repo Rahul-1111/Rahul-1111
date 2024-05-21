@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://rhamadhanromly.blog.uma.ac.id/2023/04/28/penerapan-data-science-dalam-dunia-kerja/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1111&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1111" /> </p>
 
