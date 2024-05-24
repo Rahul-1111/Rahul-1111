@@ -1,7 +1,7 @@
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img   align="right" src="https://lh3.googleusercontent.com/yuUrDV2DAtBRvItHZ2FvXMkPbHR5NEt4kXbpp8dgK-r9jI9-irP19GJb2CvdBRYmy41KG4BxFu2Hod9GzdgGc46iYmm7As4bNNsc-JP7vYwY8d1BzHgZdvKR7H4xtLM20zR9gn0PJE-nQU0navp9Xh0pHc3Cp-CjYUENN7dWZ3NJiw8CiHFEJn7Mc0ul_A" alt="programming boy gif"  height="250px" width="400px" >
+<img   align="right" src="https://marmore-assets-v2.s3.eu-west-1.amazonaws.com/insights/migrated/Data-Science-Marmore-Blog-Cover.jpg" alt="programming boy gif"  height="250px" width="400px" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1111&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1111" /> </p>
 
