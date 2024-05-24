@@ -1,7 +1,7 @@
 <center><img   src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" alt = "top gif " height="300px" width="1000px" > </center> 
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img   align="right" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="programming boy gif"  height="250px" width="400px" >
+<img   align="right" src="https://camo.githubusercontent.com/9e6018f9be7ae7a7bf39a11ca83d9bc9594b3f8424b4477c01c7908762eef7e7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a64425077754333446832575746465954776f67544d412e676966" alt="programming boy gif"  height="250px" width="400px" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-1111&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-1111" /> </p>
 
